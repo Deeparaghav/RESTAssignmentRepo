@@ -1,0 +1,135 @@
+2020-07-27 22:27:22,253 INFO  [log] HTTP status code: 200
+2020-07-27 22:27:22,413 INFO  [log] 72de0b4c5e120ff0fecf5444314720aac27bcbab
+2020-07-27 22:27:22,856 INFO  [log] HTTP status code: 200
+2020-07-27 22:27:22,858 INFO  [log] upskills_admin
+2020-07-27 22:27:23,346 INFO  [log] HTTP status code: 200
+2020-07-27 22:27:23,348 INFO  [log] upskills_admin
+2020-07-27 22:27:24,276 INFO  [log] ba6d53ab0830b282b0807f6379702f833903f441
+2020-07-27 22:27:25,993 INFO  [log] Total number of rows are 10
+2020-07-27 22:27:26,015 INFO  [log] email is: deepa@gmail.com
+2020-07-27 22:27:26,491 INFO  [log] []
+2020-07-27 22:27:27,880 INFO  [log] email is: ranju@gmail.com
+2020-07-27 22:27:28,268 INFO  [log] []
+2020-07-27 22:27:29,189 INFO  [log] email is: pinky@gmail.com
+2020-07-27 22:27:29,534 INFO  [log] []
+2020-07-27 22:27:30,402 INFO  [log] email is: testing@gtmai;l.com
+2020-07-27 22:27:30,759 INFO  [log] []
+2020-07-27 22:27:31,511 INFO  [log] email is: madhu@gmail.com
+2020-07-27 22:27:31,852 INFO  [log] []
+2020-07-27 22:27:32,604 INFO  [log] email is: sai@gmail.coim
+2020-07-27 22:27:32,955 INFO  [log] []
+2020-07-27 22:27:33,827 INFO  [log] email is: dhwitiu@gmail.com
+2020-07-27 22:27:34,264 INFO  [log] []
+2020-07-27 22:27:35,025 INFO  [log] email is: sanvi@gmail.com
+2020-07-27 22:27:35,427 INFO  [log] []
+2020-07-27 22:27:36,317 INFO  [log] email is: madadn@gmail.com
+2020-07-27 22:27:36,731 INFO  [log] []
+2020-07-27 22:27:37,519 INFO  [log] email is: raghav@gmail.com
+2020-07-27 22:27:37,891 INFO  [log] []
+2020-07-27 22:27:39,288 INFO  [log] 28ab86c382939f5833adbc712a26c8e8f104a44e
+2020-07-27 22:27:40,021 INFO  [log] Total number of rows are 10
+2020-07-27 22:27:40,025 INFO  [log] email is: deepa21@gmail.com
+2020-07-27 22:27:40,470 INFO  [log] []
+2020-07-27 22:27:41,993 INFO  [log] HTTP status code: 200
+2020-07-27 22:27:41,995 INFO  [log] Status matches, Test case is passed
+2020-07-27 22:27:41,999 INFO  [log] Customer id from response is: [242, 1339, 396, 400, 534, 535, 537, 322, 1241, 1272, 1273, 1274, 1303, 1304, 1305, 1306, 1316, 1317, 1318, 574]
+2020-07-27 22:27:42,007 INFO  [log] Customer id from custom property file is: []
+2020-07-27 22:27:42,016 INFO  [log] Customer id is not matching. Test case failed
+2020-07-27 22:27:42,021 INFO  [log] Reward points from response is: [0, 0, 0, 0, 0, 0, 0, 120, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+2020-07-27 22:27:42,029 INFO  [log] Reward points are added, TEST CASE PASSED!!!! Reward points: [0, 0, 0, 0, 0, 0, 0, 120, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+2020-07-27 22:27:42,034 INFO  [log] email is: ranju21@gmail.com
+2020-07-27 22:27:42,373 INFO  [log] []
+2020-07-27 22:27:43,504 INFO  [log] HTTP status code: 200
+2020-07-27 22:27:43,519 INFO  [log] Status matches, Test case is passed
+2020-07-27 22:27:43,537 INFO  [log] Customer id from response is: [242, 1339, 396, 400, 534, 535, 537, 322, 1241, 1272, 1273, 1274, 1303, 1304, 1305, 1306, 1316, 1317, 1318, 574]
+2020-07-27 22:27:43,544 INFO  [log] Customer id from custom property file is: []
+2020-07-27 22:27:43,546 INFO  [log] Customer id is not matching. Test case failed
+2020-07-27 22:27:43,546 INFO  [log] Reward points from response is: [0, 0, 0, 0, 0, 0, 0, 120, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+2020-07-27 22:27:43,548 INFO  [log] Reward points are added, TEST CASE PASSED!!!! Reward points: [0, 0, 0, 0, 0, 0, 0, 120, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+2020-07-27 22:27:43,556 INFO  [log] email is: pink21@gmail.com
+2020-07-27 22:27:43,920 INFO  [log] []
+2020-07-27 22:27:45,145 INFO  [log] HTTP status code: 200
+2020-07-27 22:27:45,150 INFO  [log] Status matches, Test case is passed
+2020-07-27 22:27:45,163 INFO  [log] Customer id from response is: [242, 1339, 396, 400, 534, 535, 537, 322, 1241, 1272, 1273, 1274, 1303, 1304, 1305, 1306, 1316, 1317, 1318, 574]
+2020-07-27 22:27:45,164 INFO  [log] Customer id from custom property file is: []
+2020-07-27 22:27:45,166 INFO  [log] Customer id is not matching. Test case failed
+2020-07-27 22:27:45,172 INFO  [log] Reward points from response is: [0, 0, 0, 0, 0, 0, 0, 120, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+2020-07-27 22:27:45,180 INFO  [log] Reward points are added, TEST CASE PASSED!!!! Reward points: [0, 0, 0, 0, 0, 0, 0, 120, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+2020-07-27 22:27:45,185 INFO  [log] email is: testing21@gmail.com
+2020-07-27 22:27:45,516 INFO  [log] []
+2020-07-27 22:27:47,006 INFO  [log] HTTP status code: 200
+2020-07-27 22:27:47,021 INFO  [log] Status matches, Test case is passed
+2020-07-27 22:27:47,053 INFO  [log] Customer id from response is: [242, 1339, 396, 400, 534, 535, 537, 322, 1241, 1272, 1273, 1274, 1303, 1304, 1305, 1306, 1316, 1317, 1318, 574]
+2020-07-27 22:27:47,057 INFO  [log] Customer id from custom property file is: []
+2020-07-27 22:27:47,059 INFO  [log] Customer id is not matching. Test case failed
+2020-07-27 22:27:47,061 INFO  [log] Reward points from response is: [0, 0, 0, 0, 0, 0, 0, 120, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+2020-07-27 22:27:47,062 INFO  [log] Reward points are added, TEST CASE PASSED!!!! Reward points: [0, 0, 0, 0, 0, 0, 0, 120, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+2020-07-27 22:27:47,067 INFO  [log] email is: madhu21@gmail.com
+2020-07-27 22:27:47,418 INFO  [log] []
+2020-07-27 22:27:48,541 INFO  [log] HTTP status code: 200
+2020-07-27 22:27:48,541 INFO  [log] Status matches, Test case is passed
+2020-07-27 22:27:48,546 INFO  [log] Customer id from response is: [242, 1339, 396, 400, 534, 535, 537, 322, 1241, 1272, 1273, 1274, 1303, 1304, 1305, 1306, 1316, 1317, 1318, 574]
+2020-07-27 22:27:48,558 INFO  [log] Customer id from custom property file is: []
+2020-07-27 22:27:48,559 INFO  [log] Customer id is not matching. Test case failed
+2020-07-27 22:27:48,566 INFO  [log] Reward points from response is: [0, 0, 0, 0, 0, 0, 0, 120, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+2020-07-27 22:27:48,575 INFO  [log] Reward points are added, TEST CASE PASSED!!!! Reward points: [0, 0, 0, 0, 0, 0, 0, 120, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+2020-07-27 22:27:48,580 INFO  [log] email is: sai121@gmail.coim
+2020-07-27 22:27:48,929 INFO  [log] []
+2020-07-27 22:27:50,122 INFO  [log] HTTP status code: 200
+2020-07-27 22:27:50,123 INFO  [log] Status matches, Test case is passed
+2020-07-27 22:27:50,129 INFO  [log] Customer id from response is: [242, 1339, 396, 400, 534, 535, 537, 322, 1241, 1272, 1273, 1274, 1303, 1304, 1305, 1306, 1316, 1317, 1318, 574]
+2020-07-27 22:27:50,141 INFO  [log] Customer id from custom property file is: []
+2020-07-27 22:27:50,142 INFO  [log] Customer id is not matching. Test case failed
+2020-07-27 22:27:50,150 INFO  [log] Reward points from response is: [0, 0, 0, 0, 0, 0, 0, 120, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+2020-07-27 22:27:50,162 INFO  [log] Reward points are added, TEST CASE PASSED!!!! Reward points: [0, 0, 0, 0, 0, 0, 0, 120, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+2020-07-27 22:27:50,166 INFO  [log] email is: dhwiti21@gmail.com
+2020-07-27 22:27:50,521 INFO  [log] []
+2020-07-27 22:27:51,773 INFO  [log] HTTP status code: 200
+2020-07-27 22:27:51,775 INFO  [log] Status matches, Test case is passed
+2020-07-27 22:27:51,794 INFO  [log] Customer id from response is: [242, 1339, 396, 400, 534, 535, 537, 322, 1241, 1272, 1273, 1274, 1303, 1304, 1305, 1306, 1316, 1317, 1318, 574]
+2020-07-27 22:27:51,803 INFO  [log] Customer id from custom property file is: []
+2020-07-27 22:27:51,810 INFO  [log] Customer id is not matching. Test case failed
+2020-07-27 22:27:51,828 INFO  [log] Reward points from response is: [0, 0, 0, 0, 0, 0, 0, 120, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+2020-07-27 22:27:51,834 INFO  [log] Reward points are added, TEST CASE PASSED!!!! Reward points: [0, 0, 0, 0, 0, 0, 0, 120, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+2020-07-27 22:27:51,838 INFO  [log] email is: sanvi21@gmail.com
+2020-07-27 22:27:52,210 INFO  [log] []
+2020-07-27 22:27:53,476 INFO  [log] HTTP status code: 200
+2020-07-27 22:27:53,484 INFO  [log] Status matches, Test case is passed
+2020-07-27 22:27:53,495 INFO  [log] Customer id from response is: [242, 1339, 396, 400, 534, 535, 537, 322, 1241, 1272, 1273, 1274, 1303, 1304, 1305, 1306, 1316, 1317, 1318, 574]
+2020-07-27 22:27:53,509 INFO  [log] Customer id from custom property file is: []
+2020-07-27 22:27:53,512 INFO  [log] Customer id is not matching. Test case failed
+2020-07-27 22:27:53,518 INFO  [log] Reward points from response is: [0, 0, 0, 0, 0, 0, 0, 120, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+2020-07-27 22:27:53,534 INFO  [log] Reward points are added, TEST CASE PASSED!!!! Reward points: [0, 0, 0, 0, 0, 0, 0, 120, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+2020-07-27 22:27:53,553 INFO  [log] email is: madan21@gmail.com
+2020-07-27 22:27:53,892 INFO  [log] []
+2020-07-27 22:27:55,093 INFO  [log] HTTP status code: 200
+2020-07-27 22:27:55,094 INFO  [log] Status matches, Test case is passed
+2020-07-27 22:27:55,107 INFO  [log] Customer id from response is: [242, 1339, 396, 400, 534, 535, 537, 322, 1241, 1272, 1273, 1274, 1303, 1304, 1305, 1306, 1316, 1317, 1318, 574]
+2020-07-27 22:27:55,127 INFO  [log] Customer id from custom property file is: []
+2020-07-27 22:27:55,138 INFO  [log] Customer id is not matching. Test case failed
+2020-07-27 22:27:55,146 INFO  [log] Reward points from response is: [0, 0, 0, 0, 0, 0, 0, 120, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+2020-07-27 22:27:55,147 INFO  [log] Reward points are added, TEST CASE PASSED!!!! Reward points: [0, 0, 0, 0, 0, 0, 0, 120, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+2020-07-27 22:27:55,161 INFO  [log] email is: raghav21@gmail.com
+2020-07-27 22:27:55,504 INFO  [log] []
+2020-07-27 22:27:56,747 INFO  [log] HTTP status code: 200
+2020-07-27 22:27:56,748 INFO  [log] Status matches, Test case is passed
+2020-07-27 22:27:56,753 INFO  [log] Customer id from response is: [242, 1339, 396, 400, 534, 535, 537, 322, 1241, 1272, 1273, 1274, 1303, 1304, 1305, 1306, 1316, 1317, 1318, 574]
+2020-07-27 22:27:56,762 INFO  [log] Customer id from custom property file is: []
+2020-07-27 22:27:56,762 INFO  [log] Customer id is not matching. Test case failed
+2020-07-27 22:27:56,771 INFO  [log] Reward points from response is: [0, 0, 0, 0, 0, 0, 0, 120, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+2020-07-27 22:27:56,775 INFO  [log] Reward points are added, TEST CASE PASSED!!!! Reward points: [0, 0, 0, 0, 0, 0, 0, 120, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+2020-07-27 22:27:57,265 INFO  [log] d4b2b7d551193865a3f76fef208e5dafd78c9210
+2020-07-27 22:27:58,091 INFO  [log] The Category name is: Laptops in Electronics
+2020-07-27 22:27:58,092 INFO  [log] Meta title is: Laptops
+2020-07-27 22:27:58,943 INFO  [log] HTTP status code: 200
+2020-07-27 22:27:58,943 INFO  [log] Category details fetched successfully. Test case is passed
+2020-07-27 22:27:58,947 INFO  [log] Category id from response is: [1700]
+2020-07-27 22:27:58,954 INFO  [log] Customer id from custom property file is: 1700
+2020-07-27 22:27:58,975 INFO  [log] 1701
+2020-07-27 22:27:58,978 INFO  [log] The Category name is: Computers in Electronics
+2020-07-27 22:27:58,979 INFO  [log] Meta title is: Desktops
+2020-07-27 22:27:59,676 INFO  [log] HTTP status code: 200
+2020-07-27 22:27:59,676 INFO  [log] Category details fetched successfully. Test case is passed
+2020-07-27 22:27:59,683 INFO  [log] Category id from response is: [1701]
+2020-07-27 22:27:59,688 INFO  [log] Customer id from custom property file is: 1701
+2020-07-27 22:27:59,699 INFO  [log] 1702
